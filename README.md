@@ -1,6 +1,7 @@
-# app
+# Meal Planner
 
-A new Flutter project.
+Flutter app that allows user to plan out their meals across the week.
+Backend handled in Firebase.
 
 ## Getting Started
 
